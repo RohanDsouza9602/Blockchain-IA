@@ -1,5 +1,4 @@
-# Blockchain-IA
-Event Organization Using Smart Contract
+# Event Organization Using Smart Contract
 
 This a event organizing project. In this project there are two entities first the organizer and the second the attendee.
 
